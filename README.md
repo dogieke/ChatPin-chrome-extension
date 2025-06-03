@@ -5,9 +5,9 @@ Chrome extension to easily bookmark and navigate important text snippets in LLM 
 
 ---
 
-# ChatPin: 智能 LLM 对话书签扩展
+# ChatPin: 智能 LLM 对话书签
 
-**ChatPin (曾用名 LLM Smart Bookmarks) 是一款专为大型语言模型 (LLM) 对话场景设计的 Chrome 扩展程序，旨在帮助用户轻松标记、导航和管理与 AI (如 ChatGPT, Gemini, DeepSeek 等) 对话中的重要文本片段。**
+**专为大型语言模型 (LLM) 对话场景设计的 Chrome 扩展程序，旨在帮助用户轻松标记、导航与 AI (如 ChatGPT, Gemini, DeepSeek 等) 对话中的重要文本片段。**
 
 在冗长或复杂的 LLM 对话中，我们常常会遇到一些关键信息、重要指令、有趣观点或需要稍后回顾的内容。ChatPin 允许您像在书中做标记一样，在这些文本片段旁边“固定”一个图钉，从而快速回顾和跳转。
 
