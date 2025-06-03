@@ -73,11 +73,7 @@ Chrome extension to easily bookmark and navigate important text snippets in LLM 
     * 处理 Chrome 命令 (快捷键) 的监听和分发。
     * 当中继快捷键指令到 `content.js` 时，会传递相应的操作类型（如导航到特定模式的书签）。
 
-* **样式 (`styles.css`)**:
-    为页面上的图钉选项、图钉本身以及 Popup 界面提供样式。
 
-* **图标**:
-    提供 16x16, 32x32 (可选), 48x48, 128x128 尺寸的 PNG 图标，通常**放置于项目内的 `images` 文件夹中，并在 `manifest.json` 中正确引用其路径**，以确保在各种环境下都能正确加载。
 
 ## 如何使用
 
