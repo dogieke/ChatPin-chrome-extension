@@ -37,8 +37,8 @@ Chrome extension to easily bookmark and navigate important text snippets in LLM 
 
 * **快捷键支持**:
     * **打开/关闭 Popup**: `Command+M` (Mac) / `Ctrl+M` (Windows/Linux) - *用户可能需要在 `chrome://extensions/shortcuts` 中手动确认或设置*。
-    * **跳转到单图钉**: `Command+B` (Mac) / `Ctrl+B` (Windows/Linux)。
-    * **跳转到多图钉 (按编号)**: `Alt+1`, `Alt+2` (支持最多两个编号的快捷跳转，更多可通过 Popup 列表导航)。
+    * **单图钉模式快速跳转**: `Command+B` (Mac) / `Ctrl+B` (Windows/Linux)。
+    * **多图钉模式快速跳转 (按编号)**: `Alt+1`, `Alt+2` (支持最多两个编号的快捷跳转，更多可通过 Popup 列表导航)。
 
 * **图钉交互**:
     页面上插入的图钉图标可以直接点击以删除对应的书签。
